@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MM-Code-Collection-01
+- 👋 Hi, Welcome to my Code Collection (vrs 01)
 - 👀 I’m interested in statistics, natural languange processing and prediction modeling.
 - 🌱 I’m currently learning how to futher leverage judicial administration, crime and prosecutorial data into meaningful insights for decision making. 
 - 💞️ I’m looking to collaborate on tasks or projects that studies reliable indicators for measuring crime trends over time. 
